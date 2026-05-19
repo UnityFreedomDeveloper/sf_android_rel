@@ -1,0 +1,12 @@
+{
+    "name": "com.freedomdeveloper.sf2_android_rel",
+    "version": "2.0.0",
+    "displayName": "stockfish_android_rel",
+    "description": "",
+    "unity": "2019.4",
+    "author": {
+        "name": "Freedom Developer",
+        "email": "freedom_developer@icloud.com",
+        "url": "https://moneyforskin.com"
+    }
+}
